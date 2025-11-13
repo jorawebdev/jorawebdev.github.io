@@ -19,6 +19,10 @@ header {
     color: #fff;
 }
 
+.promo-box {
+    padding: 20px 0;    
+}
+
 .promo-box .material-icons {
     font-size: 100px;
     color: #ed3122;
