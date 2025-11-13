@@ -10,6 +10,10 @@
     height: auto;
 }
 
+header {
+    background: url('assets/img/jnoxfkjnoxfkjnox.jpg') repeat: no-repeat;
+}
+
 .promo-box .material-icons {
     font-size: 100px;
     color: #ed3122;
