@@ -8,16 +8,18 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
-<body>test
-    <header>
-        <h1>{{ site.title }}</h1>
-    </header>
-    <main>
-        {{ content }}
-    </main>
-    <footer>
-        <p>© {{ site.title }}</p>
-    </footer>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ site.title }}</h1>
+        </header>
+        <main>
+            {{ content }}
+        </main>
+        <footer>
+            <p>© {{ site.title }}</p>
+        </footer>
+    </div>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             console.log('JavaScript is working!');
