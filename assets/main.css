@@ -11,7 +11,12 @@
 }
 
 header {
-    background: url('assets/img/jnoxfkjnoxfkjnox.jpg') repeat: no-repeat;
+    background: url('assets/img/jnoxfkjnoxfkjnox.jpg') repeat;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
 }
 
 .promo-box .material-icons {
