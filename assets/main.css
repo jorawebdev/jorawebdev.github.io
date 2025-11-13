@@ -9,3 +9,14 @@
 #nav .nav-wrapper {
     height: auto;
 }
+
+.promo-box .material-icons {
+    font-size: 100px;
+    color: #ed3122;
+}
+
+.promo-box .promo-caption {
+    font-size: 1.5em;
+    color: #666;
+    margin: 10px 0;
+}
