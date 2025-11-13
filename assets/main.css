@@ -1,3 +1,7 @@
+h1 {
+    margin: 0;    
+}
+
 #nav {
     background: #000;
     height: 100px;
@@ -18,7 +22,7 @@
 header {
     background: url('img/jnoxfkjnoxfkjnox.jpg') repeat;
     height: 200px;
-    display: flex;
+    display: flex !important;
     align-items: center;
     justify-content: center;
     color: #fff;
