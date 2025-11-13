@@ -12,14 +12,3 @@ This is my first Jekyll site hosted on GitHub Pages. Here, you can find my blog 
 
 I am passionate about [your interests or topics] and love to share knowledge through my blog.
 
-## Recent Posts
-
-You can view my latest blog posts below:
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
