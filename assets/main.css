@@ -43,10 +43,10 @@ header {
     margin: 10px 0;
 }
 
-.carousel .indicators .indicator-item {
+.carousel ul.indicators .indicator-item {
     background-color: #999;
 }
 
-.carousel .indicators .indicator-item.active {
+.carousel ul.indicators .indicator-item.active {
     background-color: #ed3122;
 }
