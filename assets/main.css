@@ -42,3 +42,11 @@ header {
     color: #666;
     margin: 10px 0;
 }
+
+.carousel .indicators .indicator-item {
+    background-color: #999;
+}
+
+.carousel .indicators .indicator-item.active {
+    background-color: #ed3122;
+}
