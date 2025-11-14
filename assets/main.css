@@ -2,6 +2,10 @@ h1 {
     margin: 0;    
 }
 
+section {
+    margin: 20px 0;
+}
+
 #nav {
     background: #000;
     height: 100px;
